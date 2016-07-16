@@ -11,5 +11,6 @@
 	<p><a href="/hello-spring-mvc/rest/greeting">JSON greeting</a></p>
 	<p><a href="/hello-spring-mvc/resources/greetingRest.html">Greeting Rest</a></p>
 	<p><a href="/hello-spring-mvc/resources/bootstrapTest.html">Bootstrap Test</a></p>
+	<p><a href="/hello-spring-mvc/resources/dashboard.html">Bootstrap Dashboard</a></p>
 </body>
 </html>
